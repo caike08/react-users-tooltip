@@ -1,0 +1,18 @@
+.user {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 6px;
+
+  .profileImg {
+    display: flex;
+    width: 36px;
+    height: 36px;
+    margin-right: 4px;
+  }
+
+  .name {
+    font-size: 12px;
+    color: #fff;
+  }
+}
